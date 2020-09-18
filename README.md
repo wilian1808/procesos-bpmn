@@ -21,7 +21,18 @@
 
 
 ## PROCESO DE INGRESO A LA APP
-![imagen del segundo proceso]()
+> proceso para el ingreso de la aplicacion, primero se le solicita al usuario que deba iniciar sesion, para ello se pregunta si tiene una cuenta.
+> - Si tiene procede a introducir sus datos e inicia sesion
+> ocurrio algun error cuando inicio sesion
+> - No ingresa con exito a la app - fin del proceso.
+> - Si ocurrio procede a recuperar contraseña
+> 
+> llamamos al procedo de recuperar contraseña e inici asesion correctamente - fin del proceso
+> - No tiene procede a registrarse y envia los datos, ocurrio algun error durante el registro
+> - No la cuenta fue creada con exito se inicia sesion automaticamento - fin del proceso
+> - Si se notifica que hubo un error se procede a pedir los datos de nuevo
+
+![imagen del segundo proceso](./2-proceso-de-ingreso.png)
 
 
 ## PROCESO DE BUSQUEDA DE EMPLEO
