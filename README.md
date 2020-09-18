@@ -18,7 +18,7 @@ procesos realizados para el curso de **Ingeniería de procesos.**
 > - Si comprueban se acepta la verificacion y se notifica que su perfil a sido verificado - se finaliza el proceso.
 > - No se notifica que la verificacion a sido rechazada - se finaliza el proceso.
 
-![imagen el primer proceso]('./../1-proceso-verificacion-del-perfil.png)
+![imagen el primer proceso](./1.proceso-verificacion-del-perfil.png)
 
 
 ## 2. PROCESO DE INGRESO A LA APP
@@ -33,7 +33,7 @@ procesos realizados para el curso de **Ingeniería de procesos.**
 > - No la cuenta fue creada con exito se inicia sesion automaticamento - fin del proceso
 > - Si se notifica que hubo un error se procede a pedir los datos de nuevo
 
-![imagen del segundo proceso](./2-proceso-de-ingreso.png)
+![imagen del segundo proceso](./2.proceso-de-ingreso.png)
 
 
 ## 3. PROCESO DE BUSQUEDA DE EMPLEO
@@ -48,7 +48,7 @@ procesos realizados para el curso de **Ingeniería de procesos.**
 Se le mostrara al usuario su participación de en dicho oportunidad laboral, y concluirá con una reunión para la entrevista de trabajo.
 
 
-![imagen del tercer proceso]('./../3-proceso-busqueda-empleo.png)
+![imagen del tercer proceso](./3.proceso-busqueda-empleo.png)
 
 
 ## 4. PROCESO DE CONTRATACION DE PERSONAL
@@ -67,7 +67,7 @@ Se le mostrara al usuario su participación de en dicho oportunidad laboral, y c
 > Si después de la entrevista Si está apto, se pasa a la selección.
 Por último se tiene al o los postulantes seleccionados, y termina con la contratación y la firma de contratos.
 
-![imagen del cuarto proceso]('./../4-proceso-contratacion-de-personal.png)
+![imagen del cuarto proceso](./4.proceso-contratacion-de-personal.png)
 
 
 ## 5. PROCESO DE USO DE LA APP
@@ -85,4 +85,4 @@ Por último se tiene al o los postulantes seleccionados, y termina con la contra
 > Anteriormente registrado
 > Verificar los datos si son válidos si datos no coinciden, se notificará al usuario, para posteriormente la recuperación de cuenta los datos son correctos se iniciará exitosamente.
 
-![imagen del quinto proceso](./5-proceso-uso-de-la-app.png)
+![imagen del quinto proceso](./5.proceso-uso-de-la-app.png)
