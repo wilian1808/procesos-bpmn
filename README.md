@@ -2,6 +2,21 @@
 
 
 ## PROCESO DE VERIFICACION DE INDENTIDAD DEL PERFIL
+> Este proceso empieza cuando un usuario quiere solicitar la verificacion de identidad de su perfil en la aplicacion.
+> Comienza con solicitando la verificiacion el perfil
+> Se comprueba si su perfil ya esta verificado.
+> - Si esta verificado se le notifica que su perfil ya esta verificad - se finaliza el proceso.
+> - No esta verificado el administrador autoriza la verificacion
+> 
+> La aplicacion notifica los documentos necesarios para la verificacion del perfil.
+> El usuario carga los documentos necesarios y se revisa si los documentos estan completos.
+> - No estan completos se procede a notificar que faltan documentos
+> - Si estan completos se procede a revisar los documentos
+> 
+> Los documentos estan en orden y comprueban la identidad
+> - Si comprueban se acepta la verificacion y se notifica que su perfil a sido verificado - se finaliza el proceso.
+> - No se notifica que la verificacion a sido rechazada - se finaliza el proceso.
+
 ![imagen el primer proceso]('./../1-proceso-verificacion-del-perfil.png)
 
 
