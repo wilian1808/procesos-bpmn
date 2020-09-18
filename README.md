@@ -1,7 +1,8 @@
 ## PROCESOS DE EMPRESA
+procesos realizados para el curso de **Ingeniería de procesos.**
 
 
-## PROCESO DE VERIFICACION DE INDENTIDAD DEL PERFIL
+## 1. PROCESO DE VERIFICACION DE INDENTIDAD DEL PERFIL
 > Este proceso empieza cuando un usuario quiere solicitar la verificacion de identidad de su perfil en la aplicacion.
 > Comienza con solicitando la verificiacion el perfil
 > Se comprueba si su perfil ya esta verificado.
@@ -20,7 +21,7 @@
 ![imagen el primer proceso]('./../1-proceso-verificacion-del-perfil.png)
 
 
-## PROCESO DE INGRESO A LA APP
+## 2. PROCESO DE INGRESO A LA APP
 > proceso para el ingreso de la aplicacion, primero se le solicita al usuario que deba iniciar sesion, para ello se pregunta si tiene una cuenta.
 > - Si tiene procede a introducir sus datos e inicia sesion
 > ocurrio algun error cuando inicio sesion
@@ -35,7 +36,7 @@
 ![imagen del segundo proceso](./2-proceso-de-ingreso.png)
 
 
-## PROCESO DE BUSQUEDA DE EMPLEO
+## 3. PROCESO DE BUSQUEDA DE EMPLEO
 
 > El proceso empieza al iniciar con la búsqueda de un empleo u oportunidad laboral. El cual se consultara con la base de datos si existe algún anuncio o aviso existente.
 > - De NO existir el proceso terminaría de manera inmediata.
@@ -50,7 +51,7 @@ Se le mostrara al usuario su participación de en dicho oportunidad laboral, y c
 ![imagen del tercer proceso]('./../3-proceso-busqueda-empleo.png)
 
 
-## PROCESO DE CONTRATACION DE PERSONAL
+## 4. PROCESO DE CONTRATACION DE PERSONAL
 
 > Para la contratación de un nuevo personal para el proyecto, se empezara con la publicación de una nueva convocatoria, a la cual se espera la presentación de postulantes por el puesto laboral.
 > - De No existir postulantes se volverá lanzar una nueva convocatoria.
@@ -69,5 +70,19 @@ Por último se tiene al o los postulantes seleccionados, y termina con la contra
 ![imagen del cuarto proceso]('./../4-proceso-contratacion-de-personal.png)
 
 
-## PROCESO DE LLEGADA A LA APP
-![imagen del quinto proceso]('./../5-proceso-llegada-a-la-app.png)
+## 5. PROCESO DE USO DE LA APP
+
+> Entrar a página web de InfoWork donde nos saldrá dos opciones, de iniciar sesión o crear una cuenta.
+> Si no tienes cuenta, puedes crearte una cuenta. Este paso será por medio Gmail, Facebook o correo, la creación de cuenta será completamente gratis. Al crear una cuenta nos ayuda a poder publicar, tener un perfil y acceder a otras funcionalidades
+> -	Ingresar datos
+> -	Verificar si la cuenta existe
+> -	Crea cuenta si el usuario existe notificar registrar nuevo usuario
+> -	Completar perfil o ir sesión de búsqueda de empleo o/yo publicar empleo
+> 
+> Si el usuario ya se registró anterior mente entonces, solamente se le pedirá su nombre de usuario y contraseña
+> -	Pedir usuario y contraseña
+> -	Iniciar sesión tan bien se podrá iniciar por Gmail, Facebook.
+> Anteriormente registrado
+> Verificar los datos si son válidos si datos no coinciden, se notificará al usuario, para posteriormente la recuperación de cuenta los datos son correctos se iniciará exitosamente.
+
+![imagen del quinto proceso](./5-proceso-uso-de-la-app.png)
