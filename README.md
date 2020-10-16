@@ -1,6 +1,4 @@
 ## PROCESOS DE EMPRESA
-procesos realizados para el curso de **Ingeniería de procesos.**
-
 
 ## 1. PROCESO DE VERIFICACION DE INDENTIDAD DEL PERFIL
 > Este proceso empieza cuando un usuario quiere solicitar la verificacion de identidad de su perfil en la aplicacion.
